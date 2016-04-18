@@ -1,0 +1,28 @@
+name: Cleveland Neighborhood
+favicon: null
+layout_spectrum: 0.796159598743543
+typography_spectrum: 0.996992061380297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7460666238330305
+  lightness: 0.7943604125175625
+  saturation: 0.4673707173205912
+  rhythmicContrast: 0.7454911766108125
+purpose: []
